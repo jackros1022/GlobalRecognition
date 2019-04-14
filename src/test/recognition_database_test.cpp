@@ -6,6 +6,7 @@
 
 #include "recognition_database/recognition_database.h"
 
+
 void keyboardEventOccurred(const pcl::visualization::KeyboardEvent &event, void* viewer_void){}
 
 int main(int argc, char** argv)
